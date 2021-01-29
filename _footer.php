@@ -6,7 +6,7 @@
 
                 <a href="/" title="Ir para a página inicial."><i class="fas fa-fw fa-home"></i></a>
                 <div>
-                        &copy; Copyright 2021 Adrielle Lopes
+                        &copy; Gabriel Carlos & Vinicius Nunes 
                         <small>Todos os direitos reservados</small>
                 </div>
                 <a href="#top" title="ir para o topo desta página."><i class="fas fa-fw fa-arrow-alt-circle-up"></i></a>

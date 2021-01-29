@@ -61,7 +61,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     background-position-x: left;
-    background-color: #5F9595;
+    background-color: navy;
 }
 
 
@@ -85,7 +85,7 @@ body {
 header {
     display: flex;
     align-items: center;
-    color: #5F9595 padding: .8rem .5rem;
+    color: #5F9595 padding .8rem .5rem;
 }
 
 header img {
@@ -114,7 +114,7 @@ header small {
 /* Menu principal */
 
 nav {
-    background: #EFBC68;
+    background: black;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -163,7 +163,7 @@ nav i {
 /* Rodapé */
 
 footer {
-    background: #daae68;
+    background: #292826;
     color: #5F9595;
     margin-top: .5rem;
     border-top: 1px dotted grey;
